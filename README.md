@@ -2,6 +2,9 @@
 
 Welcome to The Wild Oasis Admin Dashboard, a React Vite application designed to provide an intuitive and efficient management interface for hotel administration. This project utilizes Supabase as the backend, allowing for seamless integration and easy data management. Please note that this is a display project, and user details should not be modified to avoid any potential misbehavior of the application.
 
+Live link to website - [visit the website](https://rohit-the-wild-oasis.netlify.app).
+
+
 ## Getting Started
 
 To get started with The Wild Oasis Admin Dashboard, please follow the steps below:
