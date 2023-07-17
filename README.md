@@ -71,4 +71,4 @@ The Wild Oasis Admin Dashboard is released under the [MIT License](LICENSE). Fee
 
 ## Contact
 
-For any questions or inquiries, please contact tomarrohit5034@gmail.com[tomarrohit5034@gmail.com].
+For any questions or inquiries, please contact [tomarrohit5034@gmail.com].
