@@ -36,6 +36,12 @@ The Wild Oasis Admin Dashboard offers the following features:
 - Reservation Management: Enables administrators to view, modify, and delete reservations made by guests.
 - Reporting: Generates reports and statistics based on occupancy, revenue, and other relevant data.
 
+
+
+## NOTE
+
+Your not allowed to change the username or password beacause If I will need in future I want it to work as it is working now that why I turn on low level security in Supabase and you cannot change the user credentials.
+
 ## Project Structure
 
 The project structure of The Wild Oasis Admin Dashboard is organized as follows:
